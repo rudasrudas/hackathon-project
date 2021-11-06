@@ -1,0 +1,6 @@
+C:\Users\garan\Documents\GitHub\hackathon-project\Hackathon-project\Hackathon-project\obj\Debug\Hackathon-project.csproj.CoreCompileInputs.cache
+C:\Users\garan\Documents\GitHub\hackathon-project\Hackathon-project\Hackathon-project\obj\Debug\Hackathon-project.csprojAssemblyReference.cache
+C:\Users\garan\Documents\GitHub\hackathon-project\Hackathon-project\Hackathon-project\bin\Debug\Hackathon-project.dll
+C:\Users\garan\Documents\GitHub\hackathon-project\Hackathon-project\Hackathon-project\bin\Debug\Hackathon-project.pdb
+C:\Users\garan\Documents\GitHub\hackathon-project\Hackathon-project\Hackathon-project\obj\Debug\Hackathon-project.dll
+C:\Users\garan\Documents\GitHub\hackathon-project\Hackathon-project\Hackathon-project\obj\Debug\Hackathon-project.pdb

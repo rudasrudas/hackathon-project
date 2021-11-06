@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon-project", "Hackathon-project\Hackathon-project.csproj", "{092D8C6E-B080-4EDA-B782-32BDC2EB035A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{58C512AF-D17B-479A-BC39-4F148BC2975A}"
+	ProjectSection(SolutionItems) = preProject
+		addin\rebrick.addin = addin\rebrick.addin
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

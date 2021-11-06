@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Rebrick</Name>
+		<Assembly>C:\Users\garan\Documents\GitHub\hackathon-project\Hackathon-project\Hackathon-project\bin\Debug\Hackathon-project.dll</Assembly>
+		<AddInId>12D50CDB-FC13-4F1F-8962-C8A936F78B59</AddInId>
+		<FullClassName>Hackathon_project.Main</FullClassName>
+		<VendorId>Team 5</VendorId>
+		<Publisher>Team 5</Publisher>
+		<VendorDescription>M Description</VendorDescription>
+	</AddIn>
+</RevitAddIns>
